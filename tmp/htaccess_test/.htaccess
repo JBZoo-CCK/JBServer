@@ -1,0 +1,4 @@
+ErrorDocument 404 /mnt/tmpfs/jbhostchecker/tmp/htaccess_test/test_404.php
+<IfModule mod_rewrite.c>
+   RewriteEngine Off
+</IfModule>
